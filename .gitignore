@@ -3,3 +3,5 @@ Laws.db
 Words_Law.db
 *.txt
 Cases/
+*.db
+*.csv
